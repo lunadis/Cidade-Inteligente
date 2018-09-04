@@ -1,0 +1,4 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Pessoas.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CidadeInteligente\obj\x86\Debug\CidadeInteligente.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\CidadeInteligente\obj\x86\Debug\CidadeInteligente.csproj.GenerateResource.Cache
